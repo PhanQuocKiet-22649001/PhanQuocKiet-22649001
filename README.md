@@ -1,6 +1,6 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Xin+chào,+tôi+là+[Tên của bạn]!;+Nguyễn Văn A"></h1>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Xin+chào,+tôi+là+Phan+Quốc+Kiệt!"></h1>
 
-## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Sinh viên năm cuối | Hệ thống Thông tin;+Định hướng Business Analysis (BA)"></h1>
+## <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Sinh+viên+năm+cuối+|+Hệ+thống+Thông+tin;+Định+hướng+Business+Analysis+(BA)"></h1>
 
 <br>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Giới thiệu-2563EB?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Giới_thiệu-2563EB?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 Tôi là sinh viên năm cuối chuyên ngành Hệ thống Thông tin tại **IUH - Trường Đại học Công nghiệp Thành phố Hồ Chí Minh**. Mục tiêu của tôi là trở thành một **Business Analyst (BA)** chuyên nghiệp trong môi trường Kỹ thuật Phần mềm năng động. Tôi sở hữu nền tảng vững chắc về:
@@ -56,7 +56,7 @@ Tôi đã áp dụng các kỹ năng này vào nhiều dự án học tập (mô
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Dự án-FBBF24?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dự_án-FBBF24?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ### 🔹 Quản lý thư viện
@@ -84,12 +84,12 @@ Tôi đã áp dụng các kỹ năng này vào nhiều dự án học tập (mô
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&title_color=2563EB&icon_color=FBBF24&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=username&layout=compact&theme=default&bg_color=ffffff&hide_border=true&title_color=2563EB&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PhanQuocKiet-22649001&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&title_color=2563EB&icon_color=FBBF24&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=PhanQuocKiet-22649001&layout=compact&theme=default&bg_color=ffffff&hide_border=true&title_color=2563EB&text_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=default&bg_color=ffffff&hide_border=true&point=blue&line=gold" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhanQuocKiet-22649001&theme=default&bg_color=ffffff&hide_border=true&point=blue&line=gold" />
 </p>
 
 <br>
