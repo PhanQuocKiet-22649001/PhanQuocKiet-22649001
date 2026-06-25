@@ -1,4 +1,4 @@
-# Phan Quốc Kiệt
+# Xin chào!! Mình là Phan Quốc Kiệt
 **Sinh viên năm cuối Hệ thống Thông tin - IUH | Định hướng Business Analysis (BA)**
 
 ---
@@ -11,12 +11,13 @@ Tôi có tư duy logic, khả năng làm việc nhóm tốt và mong muốn đư
 ---
 
 ## 🎯 Kỹ năng Business Analysis
-- 📌 Requirements Gathering (Thu thập yêu cầu)
-- 📌 Requirements Analysis (Phân tích yêu cầu)
-- 📌 Requirements Documentation (Tài liệu hóa yêu cầu)
+- 📌 Thu thập yêu cầu
+- 📌 Phân tích yêu cầu
+- 📌 Tài liệu hóa yêu cầu
 - 📌 User Stories & Use Case Specification
 - 📌 Test Case Writing
 - 📌 UML Diagrams (Use Case, Activity, Class)
+- 📌 BPMN
 
 ---
 
@@ -69,7 +70,7 @@ Tôi có tư duy logic, khả năng làm việc nhóm tốt và mong muốn đư
 ### 🤖 Kho ứng dụng AI (Shoe Warehouse AI)
 - GitHub: https://github.com/PhanQuocKiet-22649001/Shoe_Warehouse_AI  
 - Documentation: https://byvn.net/JPEn  
-- Thu thập yêu cầu hệ thống kho ứng dụng AI
+- Thu thập yêu cầu hệ thống kho ứng dụng AI nhận diện hình ảnh
 - Viết SRS, Use Case, thiết kế cơ sở dữ liệu
 
 ---
