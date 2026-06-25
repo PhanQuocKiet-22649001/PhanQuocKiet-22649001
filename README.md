@@ -3,23 +3,76 @@
 
 ---
 
-### 👤 Giới thiệu bản thân
-Tôi là sinh viên năm cuối ngành Hệ thống Thông tin tại Trường Đại học Công nghiệp Thành phố Hồ Chí Minh (IUH), với định hướng phát triển chuyên sâu trong lĩnh vực Business Analysis. Tôi có tư duy logic, khả năng làm việc nhóm tốt và luôn mong muốn được thử sức trong môi trường chuyên nghiệp để cống hiến và tích lũy thêm kinh nghiệm thực tế.
+## 👤 Giới thiệu bản thân
+Tôi là sinh viên năm cuối ngành Hệ thống Thông tin tại Trường Đại học Công nghiệp TP.HCM (IUH), định hướng phát triển trong lĩnh vực Business Analysis.
 
-### 🎯 Kỹ năng chuyên môn
-*   **Phân tích yêu cầu:** Kỹ năng thu thập, phân tích quy trình nghiệp vụ và quản lý yêu cầu.
-*   **Mô hình hóa hệ thống:** Tạo lập các biểu đồ và mô hình chi tiết luồng hoạt động.
-*   **Tài liệu nghiệp vụ:** Soạn thảo các tài liệu đặc tả hệ thống toàn diện (SRS, Use Case, Test Case).
-*   **Cơ sở dữ liệu:** Thiết kế, truy vấn và quản lý dữ liệu.
+Tôi có tư duy logic, khả năng làm việc nhóm tốt và mong muốn được tham gia môi trường thực tế để phát triển kỹ năng phân tích nghiệp vụ và tích lũy kinh nghiệm dự án.
 
-### 🛠️ Công cụ sử dụng
-*   **Mô hình hóa & Thiết kế:** Visual Paradigm, Draw.io, Figma
-*   **Hệ quản trị CSDL:** MySQL, PostgreSQL
-*   **Quản lý & Văn phòng:** GitHub, Microsoft Office
+---
 
-### 🚀 Dự án học tập
-Các dự án dưới đây được thực hiện trong môi trường mô phỏng môn học, tập trung vào việc phân tích nghiệp vụ, thu thập yêu cầu và thiết kế hệ thống:
+## 🎯 Kỹ năng Business Analysis
+- 📌 Requirements Gathering (Thu thập yêu cầu)
+- 📌 Requirements Analysis (Phân tích yêu cầu)
+- 📌 Requirements Documentation (Tài liệu hóa yêu cầu)
+- 📌 User Stories & Use Case Specification
+- 📌 Test Case Writing
+- 📌 UML Diagrams (Use Case, Activity, Class)
 
-*   **Hệ thống Quản lý thư viện:** Phân tích quy trình mượn/trả sách, quản lý thành viên, tài liệu và thiết kế luồng hoạt động của thư viện.
-*   **Hệ thống Quản lý sinh viên:** Mô hình hóa các chức năng quản lý thông tin hồ sơ sinh viên, điểm số và quá trình đăng ký môn học.
-*   **Hệ thống kho ứng dụng AI:** Thu thập yêu cầu, viết tài liệu đặc tả hệ thống (SRS, Use Case) và thiết kế cơ sở dữ liệu cho một kho lưu trữ và triển khai các ứng dụng trí tuệ nhân tạo.
+---
+
+## 🛠️ Tools & Technologies
+
+### 🧩 Business & Design Tools
+- Visual Paradigm
+- Figma
+- Draw.io (Wireframe / Diagram)
+
+### 🗄️ Database
+- MySQL
+- PostgreSQL
+
+### ⚙️ Development & Productivity
+- GitHub
+- Microsoft Office (Word, Excel, Project)
+- Postman
+- Trello
+- Odoo (Basic)
+
+---
+
+## 💡 Technical Skills
+- SQL (Basic)
+
+---
+
+## 🔄 Methodology
+- Agile / Scrum (Basic)
+
+---
+
+## 🚀 Dự án học tập
+
+### 📚 Hệ thống quản lý thư viện
+- Phân tích quy trình mượn/trả sách
+- Quản lý thành viên, tài liệu
+- Thiết kế luồng nghiệp vụ hệ thống
+
+---
+
+### 🎓 Hệ thống quản lý sinh viên
+- GitHub: https://github.com/nctcode/student-management-system  
+- Documentation: https://byvn.net/GOQ2  
+- Mô hình hóa thông tin sinh viên, điểm số, đăng ký môn học
+
+---
+
+### 🤖 Kho ứng dụng AI (Shoe Warehouse AI)
+- GitHub: https://github.com/PhanQuocKiet-22649001/Shoe_Warehouse_AI  
+- Documentation: https://byvn.net/JPEn  
+- Thu thập yêu cầu hệ thống kho ứng dụng AI
+- Viết SRS, Use Case, thiết kế cơ sở dữ liệu
+
+---
+
+## 📌 Ghi chú
+Các dự án được thực hiện trong môi trường học tập, tập trung vào phân tích nghiệp vụ, thiết kế hệ thống và tài liệu hóa yêu cầu.
